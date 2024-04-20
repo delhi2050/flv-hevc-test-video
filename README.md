@@ -1,6 +1,6 @@
 | |codecid=12|enhanced-rtmp|
 |:----|:----|:----|
-|MediaInfo |✔|❌|
+|MediaInfo |✔|✔|
 |FFmpeg|❌|✔|
 |VLC|❌|❌|
 |MKVToolNix|✔|❌|
